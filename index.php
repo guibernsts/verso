@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tabela Estilizada</title>
+  <title>Tabela Estilizada Versao 2.0</title>
   
   <link rel="stylesheet" href="css/form.css" type="text/css">	
   <link rel="stylesheet" href="css/select2.css" type="text/css">	
@@ -21,6 +21,7 @@
 	
 </head>
 <body>
+
 
 
 	
