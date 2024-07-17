@@ -1,0 +1,85 @@
+	
+	body { font-family: Arial; }
+
+	form {
+	 
+     background-color: #ffffff;
+     padding: 20px;
+     border-radius: 5px;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+     margin: auto; /* Centraliza a tabela */
+     width: 50%; /* Define a largura da tabela */
+	 margin-bottom: 30px;	
+    }
+
+    label {
+      display: block;
+      margin-bottom: 8px;
+      font-weight: bold;
+    }
+
+    input[type="text"],
+    input[type="email"],
+    input[type="color"] {
+      width: calc(100% - 12px); /* Alinha a largura dos inputs ao formulário */
+      padding: 8px;
+      margin-bottom: 10px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+
+
+    .inputSave {
+      background-color: #4CAF50;
+      color: white;
+      padding: 10px 15px;
+	  margin-bottom: 10px;	
+	  margin-top: 10px;	
+		
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      width: 100%;
+    }
+
+    .inputSave:hover {
+      background-color: #404040;
+    } 
+
+
+	.inputSearh {
+      background-color: #007BFF;
+	  margin-bottom: 10px;		
+      color: white;
+      padding: 10px 15px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      width: 100%;
+    }
+
+    .inputSearh:hover {
+      background-color: #404040;
+    } 
+
+	.inputReset {
+      background-color: #A31E20;
+      color: white;
+      padding: 10px 15px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      width: 100%;
+    }
+
+    .inputReset:hover {
+      background-color: #404040;
+    } 
+
+
+
+.multiSelect { 
+			width: 100%;
+			margin-bottom: 15px;
+	
+			}
